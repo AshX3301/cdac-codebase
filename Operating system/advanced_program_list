@@ -1,0 +1,52 @@
+Basic program list
+    Threads
+1.Display attributes of default threads
+
+    Sync thread programs
+1.Mutex,recursive mutex,read_write locks
+2.Barriers
+3.Conditional variables, broadcast conditional variables
+3.Unnamed Semaphores: binary,signal and counting
+    Process sync
+1.Named semaphores
+2.shared memory 
+3.message queue
+
+Intermediate programs list
+1.
+
+
+
+Advanced Programs list
+
+1.Write a program for multi process pipelines for data processing
+    concepts required:
+                a.Named pipelines
+                b.File manipulation using sys calls(open,close,read,write,exec,fork)
+                c.Multithreading
+                d.Dynamic memory allocation
+                e.Process synchronization
+
+2.Concurrent linked list using threads
+    concepts required:
+                a.Linked list(advanced)
+                b.Multithreads
+                c.Process synchronization
+
+3.Handle Return values from multiple threads
+                a.Create and handle multiple threads
+                b.Dynamic memory allocation for threads
+                c.Recursive handle of mutex
+
+4.Multithreaded sorting : Merge sort/Heap sort
+    concepts required:
+                a.Sorting
+                b.threads
+                c.thread synchronization
+
+5.Multithreaded file searching : Implement fastest algorithm
+    concepts required:
+                a.File management
+                b.pipelines
+                c.Threads advanced
+6.Web server based on msg queue
