@@ -1,0 +1,1 @@
+cmd_/home/cdac-admin/Desktop/Ashwin_drivers/char_drivers/chardrive.ko := ld -r  -m elf_x86_64 -z noexecstack   --build-id=sha1  -T scripts/module.lds -o /home/cdac-admin/Desktop/Ashwin_drivers/char_drivers/chardrive.ko /home/cdac-admin/Desktop/Ashwin_drivers/char_drivers/chardrive.o /home/cdac-admin/Desktop/Ashwin_drivers/char_drivers/chardrive.mod.o;  true
